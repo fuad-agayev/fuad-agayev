@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Fuad Agayev
 - 🌱 I’m currently learning Vuejs Nuxtjs 
 - - 📫 How to reach me: fuad0000010@gmail.com
 <!--
