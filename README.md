@@ -1,4 +1,6 @@
 ## Hi there 👋 I'm Fuad Agayev
+
+A passionate frontend developer from Azerbaijan
 - 🌱 I’m currently learning Vuejs Nuxtjs 
 - - 📫 How to reach me: fuad0000010@gmail.com
 <!--
