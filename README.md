@@ -3,7 +3,7 @@
 A passionate frontend developer from Azerbaijan
 - 🌱 I’m currently learning Vuejs Nuxtjs 
 - - 📫 How to reach me: fuad0000010@gmail.com
-[ GO TO my PORTFOLIO Page_ ](http://fuad-folio.netlify.app)
+- - [ GO TO my PORTFOLIO Page_ ](http://fuad-folio.netlify.app)
 <!--
 **fuad-agayev/fuad-agayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
